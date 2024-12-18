@@ -64,6 +64,6 @@ Understanding mental health challenges and academic performance trends among stu
 2. **Financial Stress**: Students with higher financial stress often report lower performance and higher depression rates.
 3. **Sleep Patterns**: Irregular sleep significantly impacts mental health, with an optimal range around 6-8 hours.
 4. **Demographic Trends**: Gender and family history of mental illness influence mental health outcomes.
-.
+
 
 
