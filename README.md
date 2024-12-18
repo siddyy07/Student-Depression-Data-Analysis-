@@ -1,4 +1,3 @@
-# Student-Depression-Data-Analysis
 # Student Mental Health and Academic Performance Analysis
 
 This project analyzes student data to understand the relationships between mental health, academic performance, and associated factors using SQL and Tableau for data querying and visualization.
