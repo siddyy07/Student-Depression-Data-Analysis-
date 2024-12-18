@@ -1,5 +1,7 @@
 # Student Mental Health and Academic Performance Analysis
 
+![Student](https://github.com/user-attachments/assets/914f92a8-3f6d-4124-a3e8-608f931640f9)
+
 This project analyzes student data to understand the relationships between mental health, academic performance, and associated factors using SQL and Tableau for data querying and visualization.
 
 ---
@@ -35,6 +37,7 @@ Understanding mental health challenges and academic performance trends among stu
   - Gender-wise depression rates.
   - Relationship between sleep duration and academic performance.
   - Financial stress trends across different demographic groups.
+
 
 ---
 
